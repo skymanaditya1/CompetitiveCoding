@@ -8,4 +8,8 @@ Repository contains code for Competitive Coding
    Date - 6 March 2017, Topic - Trees, Problem Statement - https://www.interviewbit.com/problems/balanced-binary-tree/
    Problem Statement Solution - Trees/HeightBalance.java
    
-2. New Problem Statements to be added shortly
+2. Date - 9 March 2017, Topic - Trees, Problem Statement - https://www.interviewbit.com/problems/identical-binary-trees/
+   Problem Statement Solution - Trees/IdenticalBinaryTrees
+   
+   Topic - Trees, Problem Statement - https://www.interviewbit.com/problems/symmetric-binary-tree/
+   Problem Statement Solution - Trees/SymmetricBinaryTree
