@@ -24,6 +24,6 @@ Repository contains code for Competitive Coding
    Problem Statement Solution - Arrays/?
    
    Topic - Trees, Problem Statement - https://www.interviewbit.com/problems/inorder-traversal-of-cartesian-tree/
-   Problem Statement Solution - Trees/?
+   Problem Statement Solution - Trees/ValidCartesianTree.java
 
 4. Date - 11 March, 2017
